@@ -211,9 +211,9 @@ ninja.data = [{
           window.location.href = "/blog/2024/chartjs/";
         
       },
-    },{id: "post-a-post-with-tikzjax",
+    },{id: "post-my-fist-post",
       
-        title: "a post with TikZJax",
+        title: "my fist post",
       
       description: "this is what included TikZ code could look like",
       section: "Posts",
